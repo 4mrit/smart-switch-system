@@ -1,3 +1,6 @@
 [submodule "hardware/firmware-esp32"]
 	path = hardware/firmware-esp32
 	url = git@github.com:4mrit/smart-switch-firmware-esp32.git
+[submodule "firmware/firmware-esp32"]
+	path = firmware/firmware-esp32
+	url = git@github.com:4mrit/smart-switch-firmware-esp32.git
